@@ -46,12 +46,12 @@ pip install pillow
    - Click the "Save" button or press `Ctrl+S` to save the edited image.
 
 ## Keyboard Shortcuts
- Load Image - Press Ctrl+O
- Crop Image - Press Ctrl+C
- Undo       - Press Ctrl+Z
- Redo       - Press Ctrl+Y
- Save Imag  - Press Ctrl+S
- Rotate Image-Press Ctrl+R
- Grayscale   -Press Ctrl+G
+ Load Image - Press Ctrl+O,
+ Crop Image - Press Ctrl+C,
+ Undo       - Press Ctrl+Z,
+ Redo       - Press Ctrl+Y,
+ Save Imag  - Press Ctrl+S,
+ Rotate Image-Press Ctrl+R,
+ Grayscale   -Press Ctrl+G.
 
 
